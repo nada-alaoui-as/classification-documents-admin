@@ -1,0 +1,10 @@
+venv_projet/
+__pycache__/
+*.pyc
+data/
+outputs/
+models/nlp/camembert-base/
+models/nlp/camembert_finetuned/
+*.safetensors
+*.bin
+*.pth

@@ -1,0 +1,9 @@
+pytesseract
+pdf2image
+transformers
+torch
+pillow
+numpy
+opencv-python
+scikit-learn
+torchvision
